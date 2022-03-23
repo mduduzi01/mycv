@@ -1,4 +1,4 @@
-3 
+
 
 /*--------------------------------------------------------------
 # General
@@ -101,6 +101,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 36px;
   transition: 0.3s;
 }
+
 #header .profile .social-links a:hover {
   background: #149ddd;
   color: #fff;
